@@ -1,7 +1,8 @@
 # skyscrappers-solver
 Python program, that soves skyscrappers puzzle
 # Usage
-Запустите skyscrappers solver.exe
+Запустите skyscrappers solver.exe 
+(Вы также можете запустить src.py (требуется pyhon3) так: ```python src.py``` или ```python3 src.py```)
 Далее введите ограничения пазла начиная с левого верхнего угла по часовой стрелке без разделителей, если ограничение отсутвует используйте 0.
 
 
